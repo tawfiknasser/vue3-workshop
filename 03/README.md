@@ -22,7 +22,7 @@ now our mission is to setup a project environment and fill the requirements
 ___
 
 
-After you succed initializing the project, have a walk over the folders and the files. understand what is the structure of the project and how they divided them.
+After you succeed initializing the project, have a walk over the folders and the files. understand what is the structure of the project and how they divided them.
 
 what tools are being used ? 
 

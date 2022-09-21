@@ -5,12 +5,9 @@ one with classes and the other one as functional code. the classes style called 
 we will be using the `Composition API`. read about the different and why this is prefared choice [HERE](https://vuejs.org/guide/extras/composition-api-faq.html).
 ___
 
-read about 
-- what is the different between watch and compute ?
+- brief read the [Vue documentation](https://vuejs.org/guide/essentials/application.html) 
 
-Implement a counter label and button.
+- what is the different between watch and computed ?
+- ref() vs reactive() ?
 
-
-*bonus: read the [Vue documentation](https://vuejs.org/guide/essentials/application.html) 
-
-
+Implement a counter label and a button to increase the counter. 
